@@ -31,7 +31,7 @@ Anyone can add an entry to the table, and entries should include the:
 | 10Km      | 2.4G | 50HZ     | 10mW     |  Wing| No               | Padcom        | [Link](https://www.youtube.com/watch?v=8Xm_bNlywQA)       |
 | 6.3Km     | 2.4G | 50HZ     | 10mW     | Wing |  No               | Padcom        | [Link](https://www.youtube.com/watch?v=xS_HYcZSkyI)       |
 | 2.28Km | 900M | 50HZ | 10mW | Quad | No | Mike Malagoli | [Link](https://www.youtube.com/watch?v=qi4OygUAZxA&t=75s) |
-
+| 20Km | 900M | 50HZ | 10mW | Wing | No | Molokaiboy  | [Link](https://www.youtube.com/watch?v=-TQxZUHBZyQ) |
 ### 25mW
 | Max Dist. | Freq | Pkt Rate | TX Power | Type | Failsafe at Max Range? | Pilot Handle | Link to DVR |
 | ---- | -------- | -------- | --------- | --------- | ---------------------- | ------------ | ----------- |
